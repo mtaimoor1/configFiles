@@ -1,0 +1,4 @@
+set number relativenumber
+set clipboard+=unnamed
+set clipboard+=ideaput
+imap ;; <Esc>
